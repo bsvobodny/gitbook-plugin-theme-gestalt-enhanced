@@ -23,6 +23,7 @@
         "mousetrap": "^1.6.1"
     },
     "scripts": {
+        "start": "gulp build",
         "prepublish": "gulp build"
     },
     "repository": {
